@@ -1,0 +1,50 @@
+header{
+    background-color: #55b67d;
+}
+.titulo{
+    text-align: center;
+    color:rgb(31, 83, 36);
+    font-size: 3cm;    
+}
+.texto{
+    font-size: 0.56cm;
+    color: rgb(22, 236, 129);
+    text-align: center;
+}
+.imagem{
+    width: 150%;
+    height: 150%;
+}
+.link{
+    color:rgb(22, 236, 129);
+    align-items: center;
+}
+.container{
+    height: 900px;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 190%;
+    margin-right: 8%;
+}
+
+div{
+    margin-top: 95%;
+    width: 500px;
+    height: 500px;
+    align-items: center;
+    
+}
+.links_imagens{
+    font-size: xx-large;
+}
+body{
+    background-color: rgb(220, 245, 222);
+}
+
+.info{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-items: center;
+    margin-right: -50%;
+}
